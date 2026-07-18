@@ -1,5 +1,9 @@
 ## navigate to directory
-.evn├──    -> short, feature-specific sample apps
+
+ #install dependencies
+   nmp/developers/quick-start/getting-started#what-are-installation-context
+
+.evn├──  -> short, feature-specific sample apps
 ├──── app.js  -> finished app.js code
 ├──── button.js
 ├──── command.js
@@ -14,8 +18,7 @@
 ├── README.md
 └── .gitignor
 
-# install dependencies
-npm install 
+ɓ
 
 
 
