@@ -18,8 +18,4 @@
 ├── README.md
 └── .gitignor
 
-ɓ
 
-
-
-n
