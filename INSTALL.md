@@ -1,5 +1,5 @@
 ## navigate to directory
-.evn├── examples    -> short, feature-specific sample apps
+.evn├──    -> short, feature-specific sample apps
 ├──── app.js  -> finished app.js code
 ├──── button.js
 ├──── command.js
