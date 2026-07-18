@@ -1,13 +1,9 @@
-# Setup
-
-Navigate to the app directory:
-
-```bash
+## navigate to directory
 cd discord-example-app
-```
 
-Install dependencies:
+# install dependencies
+npm install 
 
-```bash
-npm install
-```
+
+
+n
